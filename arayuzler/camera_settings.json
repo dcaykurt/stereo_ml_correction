@@ -1,0 +1,14 @@
+{
+  "left": {
+    "brightness": 112,
+    "exposure": -5,
+    "contrast": 32,
+    "saturation": 32
+  },
+  "right": {
+    "brightness": 112,
+    "exposure": -5,
+    "contrast": 32,
+    "saturation": 32
+  }
+}
